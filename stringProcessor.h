@@ -57,7 +57,7 @@ char* strcatt(char* dest, const char* src) {
     return dest;
 }
 
-// is_string_valid ≥ process_string Ч залишаЇмо майже €к у тебе ориг≥нально, але з маленькими зм≥нами в ≥менах зм≥нних
+
 bool is_string_valid(char* str) {
     bool has_word = false;
     bool after_colon = false;
